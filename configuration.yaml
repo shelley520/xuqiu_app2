@@ -1,0 +1,3 @@
+caps:
+  package: com.xueqiu.android
+  activity: .view.WelcomeActivityAlias

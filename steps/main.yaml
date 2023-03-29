@@ -1,0 +1,4 @@
+-
+  by: xpath
+  locator: "//*[@resource-id='android:id/tabs']//*[@text='自选']"
+  action: click
